@@ -11,4 +11,4 @@ application that at least looks presentable.
 ## Resources
 * How To Install Tailwind: https://tailwindcss.com/docs/guides/create-react-app
 * React Router:  https://reactrouter.com/
-* 
+* Hero Icons: https://heroicons.com/
