@@ -4,6 +4,9 @@ This application was developed in order to demonstrate how a developer
 with little to no graphic design training can make a prototype 
 application that at least looks presentable.
 
+## Caveat
+If you want to look at the unstyled vs styled versions, you MUST run npm install when you switch branches!
+
 ## Documentation
 The docs directory contatins an MS word doc detailing all the changes made to style the raw application, along with a Balsamiq Wireframes project showing the design, and png files exported from the wireframes for ease of viewing.
 
